@@ -1,0 +1,71 @@
+# addon:import/export en_gb
+backup_information = Information
+backup_title = Backup
+backup_file_deleted = File has been deleted
+backup_no_import_file_chosen_or_wrong_version = No omportfile chosen or version is wrong
+backup_no_valid_import_file = Not valid import file
+backup_no_valid_charset = Not a valid charset found
+backup_database_imported = Database imported
+backup_entry_count = ({0} entries)
+backup_file_could_not_be_uploaded = File could not be uploaded.
+backup_you_have_no_write_permission_in = No permissions to this folder {0}.
+backup_no_import_file_chosen = Please choose an import file.
+backup_problem_when_extracting = Problems occured during extracting.
+backup_create_dirs_manually = Please create the following folders manually(via ftp).
+backup_file_imported = File has been imported.
+backup_import = Import
+backup_to_import = import
+backup_export = Export
+backup_to_export = export
+backup_download = download
+backup_db_import = Import
+backup_db_export = Export
+backup_filename_updated = Filname updated because of unallowed characters. Please click again on export
+backup_please_choose_folder = Please choose the folders to be exported
+backup_intro_import = Please take care when you import a database. <b>The current database will be deleted</b>.
+backup_database = Databaseimport
+backup_filename = Filename
+backup_filename_notice = Variables: %REX_SERVER, %REX_VERSION and Date-Variables like strftime()
+backup_filesize = Filesizee
+backup_delete = Delete
+backup_files = Fileimport
+backup_intro_export = To backup the whole website please backup database AND files.
+backup_database_export = Database export
+backup_file_export = File export
+backup_save_on_server = save on server
+backup_download_as_file = download as file
+backup_createdate = Create date
+
+backup_import_file = Import file
+backup_delete_file = Delete file
+backup_download_file = Download file
+
+backup_file_could_not_be_generated = File could not be generated.
+backup_file_generated_in = File has been generated in
+
+backup_proceed_db_import = Current data (articles, templates, modules,...) will be deleted. Are you sure ?
+backup_proceed_file_import = Current files will be deleted. Are you sure ?
+
+backup_export_db_caption = Database exports
+backup_export_file_caption = File exports
+
+backup_function = Function
+
+backup_send_mail = send by mail
+backup_send_mail_notice = The addon "phpmailer" is required to use this option.
+backup_mailaddress = E-mail address
+backup_mail_subject = New database backup
+backup_mail_body = Find attached a new database backup of the website "{0}".
+
+perm_general_backup[export] = Webseite exportieren
+
+backup_export_select = Export-type
+backup_export_select_tables = select tables
+backup_export_select_dir = select directories
+backup_export_select_location = select storage location
+backup_export_select_filename = select filename
+
+backup_file = File
+backup_note = Hint
+backup_upload = Upload
+backup_load_from_server = Download from server
