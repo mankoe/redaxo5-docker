@@ -1,3 +1,15 @@
+## How To
+If docker is installed you've only to run 
+```
+docker-compse up -d
+```
+ 
+Notes: 
+* The Host for your Database is ```mysql``` not ```localhost```.
+
+Have fun
+---
+### Official Redaxo Readme
 REDAXO CMS
 ==========
 
