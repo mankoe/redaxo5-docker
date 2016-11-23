@@ -5,7 +5,7 @@ docker-compse up -d
 ```
  
 Notes: 
-* The Host for your Database is ```mysql``` not ```localhost```.
+* The Host for your Database is ```mysql``` (that's the name of the mysql container) not ```localhost```.
 
 Have fun
 ---
