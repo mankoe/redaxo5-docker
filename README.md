@@ -1,7 +1,7 @@
 ## How To
 If docker is installed you've only to run 
 ```
-docker-compse up -d
+docker-compose up -d
 ```
  
 Notes: 
