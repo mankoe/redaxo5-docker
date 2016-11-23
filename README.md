@@ -5,6 +5,7 @@ docker-compse up -d
 ```
  
 Notes: 
+* Fell free and replace the files with the current [Redaxo](https://github.com/redaxo/redaxo) version.
 * The Host for your Database is ```mysql``` (that's the name of the mysql container) not ```localhost```.
 
 Have fun
